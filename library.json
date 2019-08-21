@@ -1,0 +1,16 @@
+{
+  "name" : "kbide-plugin-pir-micro-sr602",
+  "title": "pir-micro-sr602",
+  "keywords": "pir-micro-sr602, esp32, esp8266, arduino",
+  "description": "Plugin pir-micro-sr602 for KB-IDE",
+  "git": "https://github.com/cmmc-kbide/kbide-plugin-pir-micro-sr602/",
+  "author": "cmmakerclub",
+  "email": "",
+  "url": "https://github.com/cmmc-kbide/kbide-plugin-pir-micro-sr602/",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "license": "",
+  "image" : "/static/display.png",
+  "homepage": "http://www.kbide.org"
+}
